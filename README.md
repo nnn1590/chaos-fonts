@@ -2,11 +2,11 @@
 なにこれ
 What's this?
 
-[FontForge](https://fontforge.github.io/) ([ソースコード](https://github.com/fontforge/fontforge/))で編集
+[FontForge](https://fontforge.github.io/) ([ソースコード](https://github.com/fontforge/fontforge))で編集
  - `CHAOSFONT`: 普通のフォント
  - `CHAOSFONT2`: リガチャ(合字)付きフォント
 
-Edit with [FontForge](https://fontforge.github.io/en-US/) ([Source Code](https://github.com/fontforge/fontforge/))
+Edit with [FontForge](https://fontforge.github.io/en-US/) ([Source Code](https://github.com/fontforge/fontforge))
  - `CHAOSFONT`: Normal font
  - `CHAOSFONT2`: Font with ligature
 
