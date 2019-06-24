@@ -3,7 +3,7 @@ FontName: CHAOSFONT
 FullName: CHAOSFONT
 FamilyName: CHAOSFONT
 Weight: Regular
-Copyright: Copyright (c) 2019, NNN1590,,,
+Copyright: Copyright (c) 2019, NNN1590\nLicense: http://www.gnu.org/licenses/gpl-3.0.html GPL version 3
 UComments: "2019-5-19: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1558248362
-ModificationTime: 1558533645
+ModificationTime: 1561399032
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -4120,26 +4120,26 @@ LayerCount: 2
 Fore
 SplineSet
 221 762 m 1053
-248 759 m 25
- 179 309 l 25
- 308 351 l 25
- 449 306 l 25
- 500 132 l 25
- 359 78 l 25
- 197 132 l 25
- 185 69 l 25
- 392 0 l 25
- 644 69 l 25
- 626 309 l 25
- 524 462 l 25
- 299 414 l 25
- 416 765 l 25
- 248 759 l 25
-86 669 m 25
- 77 513 l 25
- 743 549 l 25
- 740 708 l 25
- 86 669 l 25
+248 759 m 25,1,-1
+ 179 309 l 25,2,-1
+ 308 351 l 25,3,-1
+ 449 306 l 25,4,-1
+ 500 132 l 25,5,-1
+ 359 78 l 25,6,-1
+ 197 132 l 25,7,-1
+ 185 69 l 25,8,-1
+ 392 0 l 25,9,-1
+ 644 69 l 25,10,-1
+ 626 309 l 25,11,-1
+ 524 462 l 25,12,-1
+ 299 414 l 25,13,-1
+ 416 765 l 25,14,-1
+ 248 759 l 25,1,-1
+86 669 m 25,15,-1
+ 77 513 l 25,16,-1
+ 743 549 l 25,17,-1
+ 740 708 l 25,18,-1
+ 86 669 l 25,15,-1
 EndSplineSet
 EndChar
 
